@@ -112,7 +112,7 @@ export default function NFTGallery({}) {
               >
                 <option value={"ETH_MAINNET"}>Mainnet</option>
                 <option value={"MATIC_MAINNET"}>Polygon</option>
-                <option value={"ETH_GOERLI"}>Goerli</option>
+                <option value={"ETH_GOERLI"}>Goerli_test</option>
                 <option value={"MATIC_MUMBAI"}>Mumbai</option>
               </select>
             </div>
